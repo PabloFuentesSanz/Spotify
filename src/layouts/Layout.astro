@@ -28,7 +28,7 @@ const { title } = Astro.props;
       <main class="[grid-area:main] rounded-lg bg-zinc-900 overflow-y-auto">
         <slot />
       </main>
-      <footer class="[grid-area:player] rounded-lg bg-zinc-900 min-h-[80px]">
+      <footer class="[grid-area:player] rounded-lg  p-2">
         <Player client:load transition:name="media-player" transition:persist/>
       </footer>
     </div>

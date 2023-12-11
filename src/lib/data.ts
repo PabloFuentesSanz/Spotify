@@ -310,11 +310,11 @@ export const songs: Song[] = [
     "duration": "3:30"
   },
   {
-    "id": 5,
-    "albumId": 5,
+    "id": 1,
+    "albumId": 6,
     "title": "Night's End",
-    "image": "https://f4.bcbits.com/img/a2793859494_16.jpg",
-    "artists": ["LoFi Dreamer"],
+    "image": "https://f4.bcbits.com/img/a0363730459_16.jpg",
+    "artists": ["WFS", "Nadav Cohen"],
     "album": "Chill Lo-Fi Music",
     "duration": "4:20"
   },
