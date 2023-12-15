@@ -1,6 +1,6 @@
 import React from 'react';
-import { usePlayerStore } from '@/store/playerStore';
-import { Pause, Play } from '@/icons/ReactIcons';
+import { usePlayerStore } from '../store/playerStore';
+import { Pause, Play } from '../icons/ReactIcons';
 
 interface PlayProps {
   id: string | undefined;
